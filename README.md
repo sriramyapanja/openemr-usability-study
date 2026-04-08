@@ -37,12 +37,6 @@ This project applies established health informatics usability methodology — gr
 
 ---
 
-## ⚠️ Synthetic Data Warning
-
-**All case studies, task ratings, patient narratives, and quantitative scores in this repository are entirely fictional.**
-
-No protected health information (PHI), real patient records, or live production data from any EHR system are included. All four patient personas (Yuki Fitzgerald, Raj Murphy, Fatima Lindstrom, Chen O'Connor) were constructed for educational and research communication purposes only. See `NOTICE.md` for the full synthetic-data disclaimer and `LICENSE` for terms of use.
-
 ---
 
 ## Study Design
